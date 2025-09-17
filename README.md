@@ -5,15 +5,15 @@ The dashboard provides a clear and visual representation of how the pandemic has
 
 # 📊 Features
 
-  # KPI Cards
+  * KPI Cards
     Displays the total number of Affected, Recovered, and Deaths across all regions.
     A region filter is included for focused analysis.
     
-  # Map Visualization
+  * Map Visualization
     Shows the number of deaths per country within a selected region.
     Helps compare the geographical spread of the pandemic.
     
-  # Trend Analysis (Line Graph)
+  * Trend Analysis (Line Graph)
     A line chart displaying the trend of Active, Recovered, and Death cases over time.
     A Metrics filter was created (using a new table) so only one metric is shown at a time, keeping the chart clean and readable.
 
