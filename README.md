@@ -1,6 +1,6 @@
 # Covid-19-Dashboard
 
-This project is an interactive Power BI dashboard built using the COVID-19 dataset from Kaggle
+This project is an interactive Power BI dashboard built using the COVID-19 dataset from Kaggle.
 The dashboard provides a clear and visual representation of how the pandemic has affected different regions around the world.
 
 # 📊 Features
@@ -19,9 +19,9 @@ The dashboard provides a clear and visual representation of how the pandemic has
 
 # 🛠️ Tools & Technologies
 
-  Power BI Desktop
-  COVID-19 Dataset (Kaggle)
-  DAX (for metrics filtering)
+  ### Power BI Desktop
+  ### COVID-19 Dataset (Kaggle)
+  ### DAX (for metrics filtering)
 
 # 🚀 How to Use
   Clone or download this repository.
