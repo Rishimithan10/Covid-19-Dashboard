@@ -24,9 +24,9 @@ The dashboard provides a clear and visual representation of how the pandemic has
   ###### DAX (for metrics filtering)
 
 # 🚀 How to Use
-  Clone or download this repository.
-  Open the .pbix file in Power BI Desktop.
-  Use the slicers/filters to explore the dataset by region and metric.
+  ###### Clone or download this repository.
+  ###### Open the .pbix file in Power BI Desktop.
+  ###### Use the slicers/filters to explore the dataset by region and metric.
 
 # 📌 Notes
   This dashboard is based on publicly available Kaggle data and is intended for learning and visualization purposes only.
