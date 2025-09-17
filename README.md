@@ -35,5 +35,5 @@ The dashboard provides a clear and visual representation of how the pandemic has
 <img width="1210" height="678" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/e6cfbc0f-aafc-4547-81ec-1e354772f6ea" />
 
 # Author
-Created by Rishimithan 
-Email: rishimithan@gmail.com
+  * Created by Rishimithan
+  * Email: rishimithan@gmail.com
